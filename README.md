@@ -1,3 +1,4 @@
+<img width="1440" alt="Screenshot 2022-09-30 at 1 18 31 PM" src="https://user-images.githubusercontent.com/101391984/193219429-c90db8aa-b17f-49a2-8626-e5667becc3ba.png">
 # Rodan-Fields
 This group project is created by our team. 
 <br>
